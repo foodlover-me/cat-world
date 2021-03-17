@@ -1,2 +1,2 @@
 # cat-world
-Display a random cat picture on the screen.
+This program will download a lovely cat photo from the Internet and display it on your screen.
